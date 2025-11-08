@@ -9,7 +9,7 @@ Our team and Certification
 ## My Teams
 - Team Name : อยากเป็นคนที่ฮีลใจ แต่เป็นได้เเค่ฮีลมังกาซอออออ
 - Including 5 team members
-  - **Chatrphol Ovanonchai (Me) ** , Electrical Engineering , Chulalongkorn University
+  - **Chatrphol Ovanonchai (Me)** , Electrical Engineering , Chulalongkorn University
   - Sorathorn Porahong , IOIT , King Mongkut Institute of Latkrabang Technology
   - Matt Nahganidhi , Computer and AI Engineering , CMKL University
   - Jinnaphat Jaiphum , ICT , Mahidol University
